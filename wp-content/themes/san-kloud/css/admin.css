@@ -1,0 +1,14 @@
+.sc-color-scheme-item {
+	float: left;
+	margin-right: 14px;
+	margin-bottom: 18px;
+}
+.sc-color-scheme-item .sc-color-scheme-label {
+	margin-top: 4px;
+	float: left;
+	clear: both;
+}
+.sc-color-scheme-item span.description {
+	margin-top: 8px;
+	float: left;
+}

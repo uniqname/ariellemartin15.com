@@ -1,0 +1,170 @@
+caption, th, td {
+	text-align: right;
+}
+#content {
+	float: right;
+}
+
+#sidebar {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+.alignleft {
+	float: left;
+}
+.aligncenter {
+	margin-right: auto;
+	margin-left: auto;
+}
+#searchform input#s {
+	float: right;
+}
+#access {
+	padding-right: 0.9em;
+	padding-left: 0;
+}
+#access ul {
+	padding-right: 0;
+	padding-left: 0;
+}
+#access li {
+	float: right;
+}
+#access ul ul {
+	float: right;
+	right: 0;
+	left: auto;
+}
+#access ul ul ul {
+	right: 100%;
+	left: auto;
+}
+#access ul ul a {
+	padding: .5em 1em .5em .5em;
+}
+.featured .hentry {
+	right: 0;
+	left: auto;
+}
+.featured .entry-title {
+	padding: 0.625em 1.25em 0.625em 0.625em;
+}
+.featured .entry-summary {
+	padding: 0.625em 1.25em 0.625em 0.625em;
+}
+section.featured + .featured {
+	right: 0;
+	left: 0;
+}
+.feature-slider {
+	left: 0.7em;
+	right: auto;
+}
+.feature-slider li {
+	float: right;
+}
+#content article {
+	margin: 0 1.8em 1.8em 0;
+	padding: 0 0 1.8em 1.8em;
+}
+.archive-header {
+	margin-right: 1.8em;
+	padding: 0 0 0.8em 1.8em;
+	margin-left: auto;
+}
+.entry-content ul,
+.comment-content ul {
+	margin-right: 1.231em;
+	margin-left: auto;
+}
+.entry-content ol,
+.comment-content ol {
+	margin-right: 2.462em;
+	margin-left: auto;
+}
+.entry-content table {
+	margin: 0 0 1.923em 0.077em;
+	text-align: right;
+}
+#content nav .previous-image {
+	float: right;
+}
+#content nav .nav-next,
+#content nav .next-image {
+	float: left;
+}
+.widget {
+	margin-left: 1.538em;
+	margin-right: auto;
+}
+.widget-area .widget_search input {
+	float: right;
+}
+#wp-calendar caption {
+	text-align: left;
+}
+#wp-calendar tfoot #next {
+	text-align: left;
+}
+.widget-area .sub-menu,
+.widget-area .children {
+	margin-right:  1.5em;
+	margin-left: auto;
+}
+.widget_authors img {
+	float: right;
+	padding-left: 10px;
+	padding-right: 0;
+}
+img.alignright {
+	margin-left: 1em;
+	margin-right: auto;
+}
+img.alignleft {
+	margin-right: 1em;
+	margin-left: auto;
+}
+.entry-thumbnail {
+	float: right;
+}
+.entry-thumbnail img {
+	margin: 0 0 0.625em 1.25em  ;
+}
+#comments {
+	margin-right: 1.8em;
+	padding: 1.8em 0 1.8em 1.8em;
+	margin-left: auto;
+}
+#comments ol {
+	margin-right: 0;
+	margin-left: auto;
+}
+#comments ul {
+	margin-right: 1.5em;
+	margin-left: auto;
+}
+#comments .avatar {
+	float: right;
+	margin: 0 0 0 0.625em;
+}
+#comments .comment-content ul,
+#comments .comment-content ol {
+	margin: 0 2.5em 1.7em 0;
+}
+.comment-reply-link {
+	text-align: left;
+}
+#cancel-comment-reply-link {
+	text-align: left;
+}
+#respond input[type=text] {
+	margin: 0 0.313em 0.938em 0;
+}
+@media (max-width: 480px) {
+.widget {
+	margin-right: 1em;
+	margin-left: auto;
+	}
+}

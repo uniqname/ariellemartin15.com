@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+  <status>
+    <created_at>Thu Apr 12 19:43:55 +0000 2012</created_at>
+    <id>190525674262511616</id>
+    <text>@melindamcleod haha for sure it's somewhere. Straight sideways pencil overshoot to banner murder. Think I almost hit the cameraman.</text>
+    <source>&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>190515610273320960</in_reply_to_status_id>
+    <in_reply_to_user_id>229067360</in_reply_to_user_id>
+    <in_reply_to_screen_name>melindamcleod</in_reply_to_screen_name>
+    <user>
+      <id>20314947</id>
+      <name>Arielle Martin</name>
+      <screen_name>AMV15</screen_name>
+      <location></location>
+      <description>I pedal BMX bikes fast</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1281751464/179347_186181241412452_161043893926187_489160_6673853_n_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1281751464/179347_186181241412452_161043893926187_489160_6673853_n_normal.jpg</profile_image_url_https>
+      <url>http://ariellemartin15.com/</url>
+      <protected>false</protected>
+      <followers_count>804</followers_count>
+      <profile_background_color>131516</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>009999</profile_link_color>
+      <profile_sidebar_fill_color>EFEFEF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>EEEEEE</profile_sidebar_border_color>
+      <friends_count>139</friends_count>
+      <created_at>Sat Feb 07 15:35:43 +0000 2009</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-28800</utc_offset>
+      <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/220767945/180607_186181158079127_161043893926187_489156_6483090_n.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/220767945/180607_186181158079127_161043893926187_489156_6483090_n.jpg</profile_background_image_url_https>
+      <profile_background_tile>true</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>808</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>23</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following>false</following>
+      <follow_request_sent>false</follow_request_sent>
+      <notifications>false</notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu Apr 12 18:34:34 +0000 2012</created_at>
+    <id>190508221067296770</id>
+    <text>Never ridden an indoor track that I REALLY liked until today. Nice job GSX, rider feedback is good. TT tomorrow!</text>
+    <source>&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>20314947</id>
+      <name>Arielle Martin</name>
+      <screen_name>AMV15</screen_name>
+      <location></location>
+      <description>I pedal BMX bikes fast</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1281751464/179347_186181241412452_161043893926187_489160_6673853_n_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1281751464/179347_186181241412452_161043893926187_489160_6673853_n_normal.jpg</profile_image_url_https>
+      <url>http://ariellemartin15.com/</url>
+      <protected>false</protected>
+      <followers_count>804</followers_count>
+      <profile_background_color>131516</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>009999</profile_link_color>
+      <profile_sidebar_fill_color>EFEFEF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>EEEEEE</profile_sidebar_border_color>
+      <friends_count>139</friends_count>
+      <created_at>Sat Feb 07 15:35:43 +0000 2009</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-28800</utc_offset>
+      <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/220767945/180607_186181158079127_161043893926187_489156_6483090_n.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/220767945/180607_186181158079127_161043893926187_489156_6483090_n.jpg</profile_background_image_url_https>
+      <profile_background_tile>true</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>808</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>23</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following>false</following>
+      <follow_request_sent>false</follow_request_sent>
+      <notifications>false</notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>4</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Wed Apr 11 17:51:33 +0000 2012</created_at>
+    <id>190135011477954560</id>
+    <text>@SamanthaCools56 you going to be around tomorrow outside of girls practice? Loved seeing your face yesterday, I want to catch up more!</text>
+    <source>&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id>107914547</in_reply_to_user_id>
+    <in_reply_to_screen_name>SamanthaCools56</in_reply_to_screen_name>
+    <user>
+      <id>20314947</id>
+      <name>Arielle Martin</name>
+      <screen_name>AMV15</screen_name>
+      <location></location>
+      <description>I pedal BMX bikes fast</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1281751464/179347_186181241412452_161043893926187_489160_6673853_n_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1281751464/179347_186181241412452_161043893926187_489160_6673853_n_normal.jpg</profile_image_url_https>
+      <url>http://ariellemartin15.com/</url>
+      <protected>false</protected>
+      <followers_count>804</followers_count>
+      <profile_background_color>131516</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>009999</profile_link_color>
+      <profile_sidebar_fill_color>EFEFEF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>EEEEEE</profile_sidebar_border_color>
+      <friends_count>139</friends_count>
+      <created_at>Sat Feb 07 15:35:43 +0000 2009</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-28800</utc_offset>
+      <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/220767945/180607_186181158079127_161043893926187_489156_6483090_n.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/220767945/180607_186181158079127_161043893926187_489156_6483090_n.jpg</profile_background_image_url_https>
+      <profile_background_tile>true</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>808</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>23</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following>false</following>
+      <follow_request_sent>false</follow_request_sent>
+      <notifications>false</notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Wed Apr 11 17:49:44 +0000 2012</created_at>
+    <id>190134553321545729</id>
+    <text>@karathrowsjav rugby on the steal? Happy belated bday btw, hope you had some sweet cupcakes.</text>
+    <source>&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>190119394964275200</in_reply_to_status_id>
+    <in_reply_to_user_id>45848251</in_reply_to_user_id>
+    <in_reply_to_screen_name>karathrowsjav</in_reply_to_screen_name>
+    <user>
+      <id>20314947</id>
+      <name>Arielle Martin</name>
+      <screen_name>AMV15</screen_name>
+      <location></location>
+      <description>I pedal BMX bikes fast</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1281751464/179347_186181241412452_161043893926187_489160_6673853_n_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1281751464/179347_186181241412452_161043893926187_489160_6673853_n_normal.jpg</profile_image_url_https>
+      <url>http://ariellemartin15.com/</url>
+      <protected>false</protected>
+      <followers_count>804</followers_count>
+      <profile_background_color>131516</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>009999</profile_link_color>
+      <profile_sidebar_fill_color>EFEFEF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>EEEEEE</profile_sidebar_border_color>
+      <friends_count>139</friends_count>
+      <created_at>Sat Feb 07 15:35:43 +0000 2009</created_at>
+      <favourites_count>1</favourites_count>
+      <utc_offset>-28800</utc_offset>
+      <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/220767945/180607_186181158079127_161043893926187_489156_6483090_n.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/220767945/180607_186181158079127_161043893926187_489156_6483090_n.jpg</profile_background_image_url_https>
+      <profile_background_tile>true</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>808</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>23</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following>false</following>
+      <follow_request_sent>false</follow_request_sent>
+      <notifications>false</notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+</statuses>

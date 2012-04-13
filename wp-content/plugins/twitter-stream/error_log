@@ -1,0 +1,1 @@
+[15-Mar-2012 05:02:40] PHP Fatal error:  Call to undefined function  get_option() in /home/roomthr1/public_html/ARIELLEMARTIN15.COM/wp-content/plugins/twitter-stream/twitter-stream.php on line 27

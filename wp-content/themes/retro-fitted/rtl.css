@@ -1,0 +1,241 @@
+blockquote,
+fieldset,
+pre {
+	text-align: right;
+}
+ol,
+ul {
+	padding: 0 3em 0 0;
+}
+ol ol,
+ol ul,
+ul ol,
+ul ul {
+	padding-right: 1.5em;
+	margin: 0;
+}
+dd {
+	margin: 0 1.5em .5em 0;
+}
+blockquote {
+	background: #e4eef3 url( "images/rtl-quotes.png" ) no-repeat 97% 15px;
+	padding: 10px 85px 10px 25px;
+}
+blockquote blockquote {
+	background: #f9e2db url( "images/rtl-quotes-alt.png" ) no-repeat 97% 15px;
+}
+blockquote blockquote blockquote {
+	background: #f4f9d1 url( "images/rtl-quotes-alt-alt.png" ) no-repeat 97% 15px;
+}
+table th {
+	border-left: 1px solid #88c7e2;
+	text-align: right;
+}
+td {
+	border-left: 1px solid #88c7e2;
+}
+
+
+/* =Images
+-------------------------------------------------- */
+
+.thumbnail {
+	float: right;
+	margin-left: 15px;
+}
+.size-thumbnail {
+	margin-left: 15px;
+}
+
+
+/* =Access
+-------------------------------------------------- */
+
+#access {
+	float: right;
+}
+#access ul {
+	float: right;
+}
+#access li {
+	float: right;
+	margin: 0 0 15px 15px;
+}
+#access ul ul {
+	float: right;
+	right: 0;
+}
+#access ul ul ul {
+	right: 100%;
+}
+
+
+/* =Paged Navigation
+-------------------------------------------------- */
+
+.sticky {
+	border-right: 5px solid #04648d;
+}
+.loop-description .avatar {
+	float: left;
+	margin: 0 15px 10px 0;
+}
+
+
+/* =Paged Navigation
+-------------------------------------------------- */
+
+.entry-navigation span {
+	margin: 0 7px 0 0;
+}
+.paged-navigation {
+	padding: 0 10px 2px 5px;
+}
+.paged-navigation a {
+	-moz-box-shadow: -2px 2px 5px rgba( 0, 0, 0, 0.3 );
+	-webkit-box-shadow: -2px 2px 5px rgba( 0, 0, 0, 0.3 );
+	box-shadow: -2px 2px 5px rgba( 0, 0, 0, 0.3 );
+}
+.paged-navigation .nav-newer a {
+	float: left;
+}
+.paged-navigation .nav-older a {
+	float: right;
+}
+
+
+/* =Widgets
+-------------------------------------------------- */
+
+.widget ol,
+.widget ul {
+	padding-right: 20px;
+}
+.widget_rss .widget-title img {
+	float: right;
+	margin: 0 0 0 .5em;
+}
+.widget_search input[type="text"] {
+	padding: 5px 0.7em 5px 0;
+}
+
+
+/* =Comment List
+--------------------------------------- */
+
+.comments-nav {
+	float: left;
+	margin: -80px 0 10px 25px;
+}
+.comments-nav .prev,
+.comments-nav .next {
+	margin: 0 10px 0 0;
+}
+.comments-nav .next {
+	background-position: 0 -29px;
+}
+.comment-list ol.children {
+	padding-left: 0;
+	padding-right: 3em;
+}
+.comment-list li li.comment,
+.comment-list li li li li li li li.comment {
+	border-right: 5px solid #04648d;
+}
+.comment-list li li li.comment,
+.comment-list li li li li li li li li.comment {
+	border-right: 5px solid #ce3000;
+}
+.comment-list li li li li.comment,
+.comment-list li li li li li li li li li.comment {
+	border-right: 5px solid #849219;
+}
+.comment-list li li li li li.comment,
+.comment-list li li li li li li li li li li.comment {
+	border-right: 5px solid #E1C40F;
+}
+.comment-list li li li li li li.comment,
+.comment-list li li li li li li li li li li li.comment {
+	border-right: 5px solid #4D1D4D;
+}
+.comment-list .avatar {
+	float: right;
+	margin: 0 0 10px 15px;
+}
+.comment-text {
+	clear: right;
+}
+
+
+/* =Comment Form
+--------------------------------------- */
+
+#respond p.form-author {
+	float: right;
+}
+#respond p.form-email {
+	float: left;
+}
+#respond input[type="text"],
+#respond textarea {
+	border: 1px dotted #04648d;
+	border-right: 2px solid #04648d;
+}
+#respond p.form-email input[type="text"],
+#respond p.form-email label {
+	float: left;
+}
+#respond p.req input[type="text"] {
+	border: 1px dotted #5b1601;
+	border-right: 2px solid #5b1601;
+}
+#respond #submit {
+	float: left;
+}
+
+
+/* =Layouts and site structure
+--------------------------------------- */
+
+.content-sidebar #content,
+.layout-default #content {
+	float: right;
+}
+.content-sidebar #sidebar-primary,
+.layout-default #sidebar-primary {
+	float: left;
+}
+
+
+/* =Gallery Shortcode
+--------------------------------------- */
+
+.gallery .gallery-item {
+	float: right;
+}
+
+
+/* =Shadows
+--------------------------------------- */
+
+#access li,
+#access ul ul,
+.hentry,
+.widget,
+.comment-list li.comment,
+.comment-list li.pingback,
+.comment-list li.trackback,
+.comments-closed,
+#respond,
+#comments-number {
+	-moz-box-shadow: -3px 5px 5px rgba( 0, 0, 0, 0.3 );
+	-webkit-box-shadow: -3px 5px 5px rgba( 0, 0, 0, 0.3 );
+	box-shadow: -3px 5px 5px rgba( 0, 0, 0, 0.3 );
+}
+
+/* WP.com Specific Styles
+--------------------------------------- */
+
+#authors ul ul {
+	padding: 0 2em 0 0;
+}

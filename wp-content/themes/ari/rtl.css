@@ -1,0 +1,186 @@
+/*
+Theme Name: Ari
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+
+/* =Reset
+-------------------------------------------------------------- */
+caption, th, td {
+	text-align: right;
+}
+
+
+/* =Structure
+----------------------------------------------- */
+
+#subsidiary {
+	float: right;
+}
+#main {
+	float: left;
+}
+.site-content {
+	float: right;
+}
+#tertiary {
+	float: left;
+}
+.site-footer {
+	float: left;
+	text-align: left;
+}
+
+
+/* =Global
+----------------------------------------------- */
+
+
+/* Text elements */
+ul, ol {
+	margin: 0 1.7857142857em 1.4285714285em 0;
+}
+ul ul,
+ol ol,
+ul ol,
+ol ul {
+	margin-right: 1.7857142857em;
+	margin-left: auto;
+}
+blockquote {
+	border-right: 5px solid #4c4c4c;
+	padding: 0 16px 0 0;
+	border-left: none;
+}
+textarea {
+	padding-right: 3px;
+	padding-left: 0;
+}
+
+
+/* =Masthead
+----------------------------------------------- */
+
+.site-description {
+	margin: 0 2px 0.7692307692em 0;
+}
+
+
+/* =Menu
+----------------------------------------------- */
+
+.main-navigation ul ul {
+	-moz-box-shadow: -1px 1px 2px rgba(0,0,0,0.2);
+	-webkit-box-shadow: -1px 1px 2px rgba(0,0,0,0.2);
+	box-shadow: -1px 1px 2px rgba(0,0,0,0.2);
+	left: auto;
+	right: 100%;
+}
+.main-navigation ul ul ul {
+	right: 100%;
+	left: auto;
+}
+/* Small menu */
+.main-small-navigation .sub-menu {
+	margin: 0 15px 0 0;
+}
+
+
+/* =Content
+----------------------------------------------- */
+
+.entry-content td,
+.comment-content td {
+	padding: 0.5em 0 0.5em 0.7142857142em;
+}
+footer.entry-meta {
+	background: url(images/meta-border.jpg) 100% 0 no-repeat;
+}
+/* Author Info */
+#author-avatar {
+	float: right;
+	margin: 2px 0 0 -50px;
+}
+#author-description {
+	float: right;
+	margin-right: 65px;
+	margin-left: auto;
+}
+
+
+/* =Navigation
+----------------------------------------------- */
+
+#content .nav-previous {
+	float: right;
+}
+#content .nav-next {
+	float: left;
+	text-align: left;
+}
+
+
+/* =Comments
+----------------------------------------------- */
+
+.children {
+	margin: 0 6.66666666% 0 0;
+}
+.full-width .children
+.sidebar-content .children {
+	margin: 0 4.54545454% 0 0;
+}
+.comment-author {
+	float: right;
+}
+.comment-content {
+	margin: 0 65px 0 0;
+}
+.reply {
+	left: 0;
+	text-align: left;
+	right: auto;
+}
+
+
+/* =Widgets
+----------------------------------------------- */
+
+.widget ul ul {
+	margin-right: 15px;
+	margin-left: auto;
+}
+/* Authors Widget */
+.widget_authors img {
+	float: right;
+	margin: 0 0 5px 5px !important;
+}
+/* Calendar Widget */
+.widget_calendar #wp-calendar caption {
+	text-align: right;
+}
+.widget_calendar #wp-calendar tfoot #next {
+	text-align: left;
+}
+/* Search widget */
+.widget_search #s {
+	float: left;
+}
+.widget_search #searchsubmit {
+	float: left;
+}
+
+
+/* =WP.com
+-------------------------------------------------------------- */
+
+.entry-content .reblog-post {
+	border-right: 5px solid #4c4c4c;
+	padding: 0 16px 0 0;
+	border-left: none;
+}

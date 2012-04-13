@@ -1,0 +1,186 @@
+/* This is a Green color scheme for San Kloud Theme */
+
+body {
+	background: #d4dfbf;
+}
+.page-wrapper {
+	background: #a2c7ac url("images/body-bg.png") bottom left repeat-x;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #3d4b4e;
+	text-shadow: 1px 1px 0 #fff;
+}
+a,
+a:visited {
+	color: #632f53;
+}
+.nav-menu a {
+	color: #5c5c5c;
+}
+.nav-menu a:hover,
+.current-menu-item a {
+	color: #c73f5c;
+}
+.nav-menu li + li {
+	background: url("images/separator.png") left no-repeat;
+}
+.nav-menu ul.children,
+.nav-menu ul.sub-menu {
+	background: #fde6bd;
+}
+.site-title-left {
+	background: url("images/header-left-part.png") right top repeat-x;
+}
+.site-title-middle {
+	background: url("images/header-middle-part.png") 0 0 repeat-x;
+}
+.site-title-right {
+	background: url("images/header-right-part.png") right top repeat-x;
+}
+.site-title,
+.site-title a {
+	color: #bc214a;
+}
+.site-description {
+	color: #bc214a !important;
+	text-shadow: none;
+}
+.post-top {
+	background: url("images/post-bg-top.png") top left no-repeat;
+}
+.format-standard .post-top {
+	background: url("images/post-bg-top-short.png");
+}
+.sticky .post-top {
+	background: url("images/post-bg-top-sticky.png") left top no-repeat;
+}
+.format-aside .post-top {
+	background: url("images/post-bg-top-short.png");
+}
+.post-middle {
+	background: url("images/post-bg-middle.png") top left repeat-y;
+}
+.post-bottom {
+	background: url("images/post-bg-bottom.png") bottom left no-repeat;
+}
+.sticky .post-title h2 a {
+	color: #bc214a;
+}
+.post-title a ,
+.page-title a {
+	color: #632f53;
+	text-shadow: 1px 1px 0 #fff;
+}
+.single-post-title h2 {
+	color: #632f53;
+}
+.content .page,
+.content .attachment,
+.archive .post,
+.search .post {
+	background: url("images/page-bg-top.png") 0 0 no-repeat;
+}
+.content .attachment {
+	background: url("images/page-bg-top-long.png") 0 0 no-repeat;
+}
+.page-content {
+	background: url("images/page-bg-middle.png") 0 0 repeat-y;
+}
+.page-bottom {
+	background: url("images/page-bg-bottom.png") 0 0 no-repeat;
+}
+.attachment .page-content {
+	background: url("images/page-bg-middle-long.png") 0 0 repeat-y;
+}
+.attachment .page-bottom {
+	background: url("images/page-bg-bottom-long.png") 0 0 no-repeat;
+}
+.archive-title {
+	color: #bc214a;
+}
+.sidebar-top {
+	background: url("images/sidebar-bg-top.png") left no-repeat;
+}
+.sidebar-middle {
+	background: url("images/sidebar-bg-middle.png") top left repeat-y;
+}
+.sidebar-bottom {
+	background: url("images/sidebar-bg-bottom.png") top left no-repeat;
+}
+.widget a {
+	color: #3d4b4e;
+}
+.widget h3 {
+	border-bottom: 1px solid #fde6bd;
+	color: #632f53;
+	text-shadow: 1px 1px 0 #fff;
+}
+#comments-title,
+.nocomments {
+	border-bottom: 1px solid #fde6bd;
+	box-shadow: 0 1px #d1edec;
+	color: #632f53;
+}
+.comment-wrapper {
+	background: url("images/comment-top.png") top left no-repeat;
+}
+.comment-body {
+	background: url("images/comment-middle.png") top left repeat-y;
+}
+.reply-wrapper {
+	background: url("images/comment-bottom.png") top left no-repeat;
+}
+.comment-author-name,
+.comment-author-name a {
+	color: #632f53;
+	text-shadow: 1px 1px 0 #fff;
+}
+.comment-author-meta,
+.comment-body-text {
+	color: #000;
+}
+.comment-author-meta {
+	color: #000;
+}
+.comment-author-meta a {
+	color: #000;
+}
+ul.children .comment-wrapper {
+	background: #fde6bd;
+	border-top: 1px solid #fff;
+	border-left: 1px solid #fff;
+}
+.reply a {
+	color: #718383;
+	text-shadow: 1px 1px #fff;
+}
+#commentform input[type=text], #commentform textarea {
+	background: #cee0d3;
+}
+#commentform input[type=submit] {
+	background: #d11e48;
+	color: #cee0d3;
+	text-shadow: 1px 1px 0 #f3c7d1;
+}
+.form-allowed-tags {
+	color: #000;
+}
+#wp-calendar caption {
+	color: #979c9c;
+	text-shadow: 1px 1px 0 #fff;
+}
+#wp-calendar th {
+	border: 1px solid #fca45e;
+	color: #a1a6a6;
+	text-shadow: 1px 1px 0 #fff;
+}
+#wp-calendar td {
+	border: 1px solid #fca45e;
+	color: #3d4b4e;
+	text-shadow: 1px 1px 0 #fff;
+}

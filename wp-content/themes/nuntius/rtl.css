@@ -1,0 +1,522 @@
+/* =Reset
+-------------------------------------------------------------- */
+
+center {
+	text-align:right;
+}
+
+/* =Base (Global) Styles
+-------------------------------------------------------------- */
+
+ul {
+	margin: 0 2.5em 20px 0;
+}
+ol {
+	margin: 0 3em 20px 0;
+}
+dl {
+	margin:0 5px 20px 0;
+}
+dl dd {
+	margin: 5px 1.5em 0 0;
+}
+th,
+td {
+	text-align: right;
+}
+.alignright,
+.right {
+	float: right;
+	margin-left: 20px;
+	margin-right: auto;
+}
+.alignleft,
+.left {
+	float: left;
+	margin-right: 20px;
+	margin-left: auto;
+}
+
+/* Blockquotes. */
+blockquote {
+	border-left: 1px solid #e5e5e5;
+	border-right: 8px solid #e5e5e5;
+}
+
+/* Tables */
+.entry-content table {
+	border-right: 1px solid #e0e0e0;
+	border-left: 1px solid #e0e0e0;
+}
+.entry-content table th {
+	border-right-width: 0;
+	text-align: right;
+}
+.entry-content td {
+	border-left: 1px solid #e0e0e0;
+	border-right: none;
+}
+
+/* Thumbnails */
+.archive .hentry .nuntius-thumbnail,
+.search .hentry .nuntius-thumbnail {
+	float: left;
+}
+
+/* Gallery [gallery] */
+.gallery-item {
+	margin-right: 1px;
+	margin-left: auto;
+}
+
+/* =Secondary Menu (Above Header)
+-------------------------------------------------------------- */
+
+#menu-secondary {
+	float: right;
+}
+#menu-secondary #site-description {
+	float: right;
+}
+#menu-secondary div.menu {
+	float: left;
+}
+#menu-secondary div.menu ul {
+	float: left;
+	padding-right: 1px;
+	padding-left: 0;
+}
+#menu-secondary li {
+	float: right;
+}
+#menu-secondary a {
+	border-left: 1px dotted #2a2a2a;
+	padding: 13px 14px 11px 15px;
+	border-right: none;
+}
+#menu-secondary ul ul {
+	float: right;
+	right: 0;
+	left: auto;
+}
+#menu-secondary ul ul ul {
+	right: 100%;
+	left: auto;
+}
+#menu-secondary ul ul a {
+	border-left-width: 0;
+}
+
+/* =Header
+-------------------------------------------------------------- */
+
+#header {
+	background-image: -webkit-gradient(linear, right top, right bottom, from(rgba(0,0,0,0)), to(rgba(0,0,0,0.3)));
+}
+#site-title {
+	float: right;
+}
+#sidebar-header {
+	float: left;
+	margin: 67px 0 0 20px;
+}
+#header .search {
+	background: url(images/bg-header-search-rtl.png) no-repeat;
+	float: left;
+}
+#header .search input.search-text {
+	float: right;
+	margin: 0 30px 0 0;
+}
+#header .search input.search-submit {
+	float: right;
+}
+
+/* =Primary Menu
+-------------------------------------------------------------- */
+
+#menu-primary {
+	background-image: -webkit-gradient(linear, right top, right bottom, from(rgba(0,0,0,0.3)), to(rgba(0,0,0,0.5)));
+	float: right;
+}
+#menu-primary div.menu ul {
+	float: right;
+}
+#menu-primary li {
+	float: right;
+}
+#menu-primary a {
+	border-right: 1px solid rgba(77, 0, 0, 0.9);
+	padding: 18px 20px 18px 22px;
+	border-left: none;
+}
+#menu-primary ul ul {
+	float: right;
+	margin-right: 0 !important;
+	right: 0;
+	left: auto;
+	margin-left: auto;
+}
+#menu-primary ul ul ul {
+	right: 100%;
+	left: auto;
+}
+
+/* =Main Content Container and Breadcrumbs
+-------------------------------------------------------------- */
+
+#container {
+	background: url(images/bg-container-rtl.png) repeat-y;
+}
+/* Breadcrumb trail. */
+.breadcrumbs {
+	background: -webkit-gradient(linear, right top, right bottom, from(#fafafa), to(#f2f2f2));
+}
+.breadcrumb-trail {
+	padding: 20px 20px 0 0;
+}
+.breadcrumb-trail ul li {
+	float: right;
+}
+
+/* =Post Structure and Metadata
+-------------------------------------------------------------- */
+
+#content {
+	background: -webkit-gradient(linear, right top, right bottom, from(#fdfdfd), to(#ffffff));
+	float: right;
+}
+.hentry {
+	float: right;
+	margin: 20px 20px 0 0;
+}
+.entry-utility {
+	padding: 5px 0 3px 10px;
+	text-align: left;
+}
+.entry-utility a {
+	margin: 10px 10px 0 0;
+}
+.entry-utility a.edit-link {
+	margin-right: 0;
+	margin-left: 10px;
+	padding-right: 10px;
+	padding-left: 0;
+}
+.entry-meta .tag-links,
+.entry-meta .entry-permalink {
+	border-left: 1px solid #eee;
+	border-right: none;
+}
+.entry-tags {
+	float: right;
+}
+.entry-tags a {
+	margin: 10px 0 0 8px;
+}
+.entry-tags a span {
+	background: url(images/tags.png) no-repeat left -78px;
+}
+
+/* =Post Navigation and Pagination
+-------------------------------------------------------------- */
+
+#nav-below .nav-previous,
+#image-navigation .previous-image {
+	float: right;
+}
+#nav-below .nav-next,
+#image-navigation .next-image {
+	float: left;
+	text-align: left;
+}
+
+/* =Sidebars and Widget Areas
+-------------------------------------------------------------- */
+
+#sidebar-primary {
+	float: left;
+}
+#sidebar-primary .widget {
+	float: right;
+}
+.widget li li {
+	border-right: 5px solid #e0e0e0;
+	border-left: none;
+}
+.widget_calendar table {
+	border-left: 1px solid #e0e0e0;
+	border-right: none;
+}
+#sidebar-primary .search-form div {
+	background: url(images/bg-sidebar-search-form-rtl.png) no-repeat;
+}
+#sidebar-primary .search-form .search-text,
+#sidebar-feature .search-form .search-text {
+	margin: 7px 10px 0 30px;
+}
+.widget-area .sub-menu,
+.widget-area .children {
+	margin-right:  1.5em;
+	margin-left: auto;
+}
+.sidebar-tabs {
+	float: right;
+}
+.sidebar-tabs li {
+	float: right;
+}
+.sidebar-tabs li {
+	border-left: 1px solid #e5e5e5;
+	border-right: none;
+}
+.sidebar-tabs li a {
+	float: right;
+	padding: 20px 15px 20px 16px;
+}
+.tabbed-content .tab-content {
+	clear: right;
+}
+.widget_authors img {
+	float: right;
+	padding-left: 10px;
+	padding-right: 0;
+}
+
+
+/* =Comments
+-------------------------------------------------------------- */
+
+#comments-template {
+	float: right;
+}
+#comment-nav-above,
+#comment-nav-below {
+	float: left;
+	margin-left: 10px;
+	margin-right: auto;
+}
+#comment-nav-above .nav-previous a,
+#comment-nav-below .nav-previous a,
+#comment-nav-above .nav-next a,
+#comment-nav-below .nav-next a {
+	margin-right: 10px;
+	margin-left: auto;
+}
+.commentlist li li .comment-wrap {
+	padding-right: 40px;
+	padding-left: 0;
+}
+.commentlist li li li .comment-wrap {
+	padding-right: 60px;
+	padding-left: 0;
+}
+.commentlist li li li li .comment-wrap {
+	padding-right: 80px;
+	padding-left: 0;
+}
+.commentlist li li li li li .comment-wrap {
+	padding-right: 100px;
+	padding-left: 0;
+}
+.commentlist li li li li li li .comment-wrap {
+	padding-right: 120px;
+	padding-left: 0;
+}
+.commentlist li li li li li li li .comment-wrap {
+	padding-right: 140px;
+	padding-left: 0;
+}
+.commentlist li li li li li li li li .comment-wrap {
+	padding-right: 160px;
+	padding-left: 0;
+}
+.commentlist li li li li li li li li li .comment-wrap {
+	padding-right: 180px;
+	padding-left: 0;
+}
+.commentlist li li li li li li li li li li .comment-wrap {
+	padding-right: 200px;
+	padding-left: 0;
+}
+ol.commentlist .avatar {
+	float: right;
+}
+.comment-meta {
+	margin: 0 90px 10px 0;
+}
+.comment-reply-link {
+	float: left;
+	padding-right: 14px;
+	padding-left: 0;
+}
+.comment-text {
+	margin: 0 90px 0 0;
+}
+
+
+/* =Footer
+-------------------------------------------------------------- */
+
+#footer {
+	float: right;
+	padding: 54px !important 20px 0;
+}
+#footer #colophon {
+	text-align: left;
+}
+#menu-footer {
+	float: right;
+}
+#menu-footer div.menu ul {
+	float: right;
+	margin: 0 20px 0 0;
+}
+#menu-footer div.menu li {
+	margin: 0 0 0 20px;
+}
+#menu-footer div.menu li a {
+	padding: 0 10px 0 0;
+}
+
+/* =Featured Categories on Home Page \"News\" Template
+-------------------------------------------------------------- */
+
+.category-section,
+#more-articles {
+	float: right;
+	margin: 20px 20px 0 0;
+}
+.category-section .hentry {
+	float: right;
+}
+.category-section img.nuntius-thumbnail,
+#more-articles img.nuntius-thumbnail {
+	float: left;
+	margin: 6px 20px 10px 0;
+}
+.category-section .post-list {
+	float: left;
+	margin: 0 0 0 20px;
+}
+#more-articles .byline,
+.archive .byline,
+.search .byline {
+	margin: 0 22px 14px 140px;
+}
+#more-articles .comments-link,
+#more-articles .entry-date,
+.archive .comments-link,
+.archive .entry-date,
+.search .comments-link,
+.search .entry-date {
+	padding: 0 18px 0 0;
+}
+#more-articles .entry-date,
+.archive .entry-date,
+.search .entry-date,
+#more-articles .comments-link,
+.archive .comments-link,
+.search .comments-link {
+	background-position: right;
+}
+
+
+/* =Archive, Search and 404
+-------------------------------------------------------------- */
+
+.archive .hfeed,
+.error404 .hfeed,
+.search .hfeed {
+	float: right;
+	margin: 20px 20px 0 0;
+}
+.archive-header {
+	float: right;
+}
+.archive-description {
+	float: right;
+}
+.archive-description img.avatar {
+	float: right;
+}
+
+/* =Featured Template (Contains slider, featured widget area and featured categories)
+-------------------------------------------------------------- */
+
+/* Featured area. */
+#feature {
+	float: right;
+}
+.slideshow-set {
+	float: right;
+}
+.slideshow-items {
+	float: right;
+}
+.slideshow-item {
+	float: right;
+}
+.slideshow-items .entry-title {
+	padding: 35px 20px 35px 0;
+	right: 0;
+	left: auto;
+}
+.slideshow-set img {
+	right: 0;
+	left: auto;
+}
+.slideshow-caption {
+	float: right;
+	right: 0;
+	left: auto;
+}
+.slideshow-caption-text {
+	clear: left;
+}
+.slideshow-caption-text p {
+	padding: 20px 20px 40px 0;
+}
+.slideshow-controls {
+	background: url(images/slider-controls-rtl.png) repeat-x 0 0;
+	float: right;
+}
+.slideshow-controls .slideshow-pager {
+	float: right;
+}
+.slideshow-controls .slideshow-pager a {
+	background: url(images/slider-controls-rtl.png) no-repeat left -61px;
+	float: right;
+	padding: 12px 20px 12px 21px;
+}
+.slideshow-controls .slideshow-nav {
+	float: left;
+	margin: 0 0 0 10px;
+}
+.slideshow-controls a.slider-prev,
+.slideshow-controls a.slider-next {
+	background-image: url(images/slider-controls-rtl.png);
+}
+.slideshow-controls a.slider-prev {
+	margin: 16px 0 0 10px;
+	float: right;
+}
+.slideshow-controls a.slider-next {
+	float: right;
+	margin: 16px 0 0 10px;
+}
+#sidebar-feature {
+	float: left;
+}
+#sidebar-feature .hentry img {
+	float: left;
+	margin: 0 20px 20px 0;
+}
+
+
+/* =WP.com
+-------------------------------------------------------------- */
+
+#respond {
+	padding: 0 !important 15px 15px;
+}

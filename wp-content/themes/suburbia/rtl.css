@@ -1,0 +1,155 @@
+/*
+Theme Name: Suburbia
+*/
+
+caption, th, td {
+	text-align: right;
+}
+ol,
+ul {
+	padding: 0 40px 0 0;
+}
+blockquote.right {
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+	text-align: left;
+}
+blockquote.left {
+	float: left;
+	margin-right: 20px;
+	margin-left: 0;
+	text-align: right;
+}
+textarea {
+	padding-right: 3px;
+	padding-left: 0;
+}
+
+input#s {
+	padding: 3px 28px 3px 10px;
+}
+.space {
+	float: right;
+	padding: 15px 5px 0 20px;
+}
+#site-title {
+	border-right: 1px solid #e0e0e0;
+	float: right;
+	border-left: none;
+}
+.desc {
+	border-right: 1px solid #e0e0e0;
+	float: left;
+	border-left: none;
+}
+#access {
+	border-left: 1px solid #e0e0e0;
+	float: right;
+	border-right: none;
+}
+body.page #access,
+body.single #access {
+	border-left: none;
+	border-right: none;
+}
+#access ul ul {
+	right: 155px;
+	left: auto;
+}
+#access ul ul li {
+	padding: 0 7px 0 0;
+}
+.hentry {
+	float: right;
+}
+.grid {
+	border-left: 1px solid #e0e0e0;
+	float: right;
+	border-right: none;
+}
+.grid .time {
+	left: 20px;
+	text-align: left;
+	right: auto;
+}
+#single {
+	float: right;
+	margin-left: -1px;
+	margin-right: auto;
+}
+#single ol,
+#single ul {
+	padding: 0 20px 0 0;
+}
+#single td {
+	padding: 6px 0 6px 10px;
+}
+#author-avatar {
+	float: right;
+	margin: 5px 0 0 -55px;
+}
+#author-description {
+	float: right;
+	margin-right: 125px;
+	margin-left: auto;
+}
+.aside {
+	border-left:1px solid #e0e0e0;
+	float: right;
+	border-right: none;
+}
+.meta {
+	float: right;
+}
+.bottom {
+	border-left: 1px solid #e0e0e0;
+	float: right;
+	border-right: none;
+}
+.sidebar {
+	float: left;
+}
+.widget ul ul {
+	margin-right: 10px;
+	margin-left: auto;
+}
+.widget_authors img {
+	float: right;
+	padding-left: 10px;
+	padding-right: 0;
+}
+.widget_calendar #wp-calendar caption {
+	text-align: right;
+}
+.widget_calendar #wp-calendar tfoot #prev {
+	text-align: right;
+}
+.widget_calendar #wp-calendar tfoot #next {
+	text-align: left;
+}
+#comments .nav-previous,
+#comments .nav-next {
+	float: right;
+}
+#comments .nav-next {
+	float: left;
+	text-align: left;
+}
+.comment-meta {
+	float: right;
+	margin: 12px 0 0 -125px;
+}
+.comment-meta .avatar {
+	padding-left: 10px;
+	padding-right: 0;
+}
+.comment-content {
+	float: right;
+	margin: 0 125px 0 0;
+}
+#single .comment ul.children {
+	margin-right: 55px;
+	margin-left: auto;
+}
+

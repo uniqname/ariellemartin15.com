@@ -1,0 +1,13 @@
+.comment-body {
+	min-width: 500px;
+}
+.post-middle {
+	min-height: 100px;
+}
+.page-content {
+	width: 500px;
+}
+ul.children {
+	display: block;
+	margin-bottom: 10px !important;
+}

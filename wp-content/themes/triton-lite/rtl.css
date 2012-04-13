@@ -1,0 +1,213 @@
+/*
+Theme Name: Triton Lite
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+#masthead,
+#access,
+#access li,
+#access ul ul,
+#header,
+#logo,
+.lay1,
+.lay1 > div,
+.archive-title,
+#midrow,
+#midrow .widget,
+#footer,
+#footer .widgets,
+#footer .widget,
+#copyright,
+#sidebar,
+#sidebar .widget,
+#sidebar #searchform #s,
+#sidebar #searchsubmit,
+#posts,
+#posts .post-content,
+#comment-nav-above,
+#comment-nav-below,
+.comment-nav-previous,
+.commentlist img.avatar,
+.nav-paginated,
+.navigation,
+#nav-below,
+.nav-wrapper,
+#attachment-navigation,
+.nav-previous,
+.nav-next,
+.error-page,
+.alignleft,
+#wpstats,
+.gallery,
+#respond,
+.search-term,
+.search-term #searchform {
+	float: right;
+}
+.copytext,
+.comment-nav-next,
+.edit-comment-link a,
+.alignright,
+#comments .form-submit input {
+	float: left;
+}
+#access ul {
+	padding-left: inherit;
+	padding-right: 0;
+}
+#access ul ul {
+	left: auto;
+	right: 0;
+}
+#access ul ul ul {
+	left: auto;
+	right: 190px;
+}
+#midrow .widget {
+	margin-left: 35px;
+	margin-right: auto;
+}
+#midrow .widget:nth-child( 3n ) {
+	margin-left: 0;
+	margin-right: auto;
+}
+#midrow .widget:nth-child( 3n+1 ) {
+	clear: right;
+}
+#footer .widget {
+	margin-left: 35px;
+	margin-right: auto;
+}
+#footer .widget:nth-child( 4n ) {
+	margin-left: 0;
+	margin-right: auto;
+}
+#sidebar {
+	margin-left: auto;
+	margin-right: 10px;
+}
+#sidebar #searchform #s {
+	margin-left: 10px;
+	margin-right: auto;
+}
+.single-page-post .post-wrap {
+	padding-left: 20px;
+	padding-right: 0;
+}
+#posts .post-content .edit-link,
+#next {
+	text-align: left;
+}
+.post-content blockquote {
+	margin-left: auto;
+	margin-right: 0;
+	padding-left: 0;
+	padding-right: 40px;
+}
+.post table,
+.org-comment table {
+	margin: 0 0 24px -1px;
+	text-align: right;
+}
+#cancel-comment-reply-link {
+	padding-left: 0;
+	padding-right: 5px;
+}
+.commentlist img.avatar {
+	margin: 0 0 13px 13px;
+}
+.edit-comment-link a {
+    text-align: left;
+}
+li.comment ol,
+li.comment ul {
+	margin: 0 0 13px 13px;
+}
+li.comment li ol,
+li.comment li ul {
+	margin: 0 0 0 24px;
+}
+li.comment ul.children {
+	margin-left: 0;
+	margin-right: auto;
+}
+.single .nav-previous {
+	text-align: right;
+}
+.single .nav-next {
+	text-align: left;
+}
+.amp-page,
+.amp-next,
+.amp-prev,
+.page-numbers {
+	margin-left: 10px;
+	margin-right: auto;
+}
+.page-numbers {
+	margin-left: 5px;
+	margin-right: auto;
+}
+.amp-current,
+.nav-paginated .current {
+	margin-left: 10px;
+	margin-right: auto;
+}
+#sidebar .widgets .widget_nav_menu ul li ul li,
+#midrow .widgets .widget_nav_menu ul li ul li,
+#footer .widgets .widget_nav_menu ul li ul li {
+	padding-left: 0;
+	padding-right: 15px;
+}
+.alignleft {
+	margin: 13px 0 13px 20px;
+}
+div.alignleft {
+	margin: 0 0 16px 20px;
+}
+.alignright {
+	margin: 13px 20px 13px 0;
+}
+div.alignright {
+	margin: 0 20px 16px 0;
+}
+#wpstats {
+	margin: -10px 5px 0 0;
+}
+#comments .form-submit input {
+	margin-left: 1.5%;
+	margin-right: auto;
+}
+.featured .hentry {
+	left: auto;
+	right: 3px;
+}
+.featured .entry-title,
+.featured .entry-summary {
+	padding: 10px 20px 10px 10px;
+}
+div.featured + .featured {
+	left: auto;
+	right: 0;
+}
+.feature-slider {
+	left: 1px;
+	right: auto;
+}
+.feature-slider li {
+	float: right;
+}
+.lay1 > div {
+	margin-left: 40px;
+	margin-right: 0;
+}

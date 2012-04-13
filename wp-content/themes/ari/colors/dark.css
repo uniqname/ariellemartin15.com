@@ -1,0 +1,85 @@
+/*
+	A dark color scheme for Ari
+*/
+
+
+/* =Global
+----------------------------------------------- */
+
+body {
+	color: #707070;
+	background-color: #1b1c1b;
+}
+a,
+.comment-meta a,
+.entry-meta a,
+.logged-in-as a,
+.post-edit-link,
+.site-footer a,
+.widget a {
+	color: #8a8a8a;
+	text-decoration: underline;
+}
+.main-navigation a,
+.main-small-navigation a {
+	color: #8a8a8a;
+	text-decoration: none;
+}
+a:hover,
+.comment-meta a:hover,
+.entry-meta a:hover,
+.entry-title a:hover,
+.logged-in-as a:hover,
+.post-edit-link:hover,
+.site-footer a:hover,
+.widget a:hover {
+	color: #b7b7b7;
+	text-decoration: underline;
+}
+.main-navigation a:hover,
+.main-navigation li.current_page_item > a,
+.main-navigation li.current_page_ancestor > a,
+.main-navigation li.current-menu-item > a,
+.main-navigation li.current-menu_ancestor > a,
+.site-title a:hover {
+	color: #b7b7b7;
+	text-decoration: none;
+}
+.entry-title a,
+.site-title a {
+	color: #8a8a8a;
+	text-decoration: none;
+}
+.entry-title a:hover {
+	text-decoration: none;
+}
+.main-navigation ul ul {
+	background-color: #1b1c1b;
+}
+.widget-title a {
+	color: #707070;
+	text-decoration: none;
+}
+.widget_calendar #wp-calendar tbody td a {
+	background: #8a8a8a;
+	text-decoration: none;
+}
+.widget_calendar #wp-calendar tbody td a:hover {
+	background: #b7b7b7;
+}
+button:hover,
+html input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+	background: #8a8a8a;
+}
+.bypostauthor .avatar {
+	background: #8a8a8a;
+}
+/* Flickr Widget (WP.com) */
+.widget_flickr #flickr_badge_uber_wrapper a {
+	color: #8a8a8a !important;
+}
+.widget_flickr #flickr_badge_uber_wrapper a:hover {
+	color: #b7b7b7 !important;
+}

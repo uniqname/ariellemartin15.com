@@ -1,0 +1,184 @@
+/* This is a Default (blue) color scheme for San Kloud Theme */
+
+body {
+	background: #d8e8e7;
+	color: #000;
+	text-shadow: 1px 1px #fff;
+}
+.page-wrapper {
+	background: #a7dbd8 url("images/body-bg.png") bottom left repeat-x;
+}
+a,
+a:visited {
+	color: #3d4b4e;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #3d4b4e;
+	text-shadow: 1px 1px 0 #fff;
+}
+.archive-title {
+	color: #488e95;
+}
+.comment-author-name,
+.comment-author-name a {
+	color: #3d4b4e;
+}
+.comment-author-meta,
+.comment-body-text {
+	color: #000;
+}
+.comment-body {
+	background: url("images/comment-middle.png") top left repeat-y;
+}
+.comment-wrapper {
+	background: url("images/comment-top.png") top left no-repeat;
+}
+#commentform input[type=text],
+#commentform textarea {
+	background: #e1e7e7;
+}
+#commentform input[type=submit] {
+	background: #f38630;
+	border-left: 1px solid #fce1cb;
+	border-top: 1px solid #fce1cb;
+	color: #a7dbd8;
+	text-shadow: 1px 1px 0 #fce1cb;
+}
+#comments-title,
+.nocomments {
+	border-bottom: 1px solid #b2b2b2;
+	box-shadow: 0 1px #d1edec;
+	color: #699997;
+}
+.content .page,
+.archive .post,
+.search .post {
+	background: url("images/page-bg-top.png") 0 0 no-repeat;
+}
+.content .attachment {
+	background: url("images/page-bg-top-long.png") 0 0 no-repeat;
+}
+.format-aside .post-top {
+	background: url("images/post-bg-top-short.png");
+}
+.format-standard .post-top {
+	background: url("images/post-bg-top-short.png");
+}
+.widget h3 {
+	color: #3d4b4e;
+	border-bottom:  1px solid #a7dbd8;
+	box-shadow: 0 1px 0 #fff;
+	text-shadow: 1px 1px 0 #fff;
+}
+.nav-menu a {
+	color: #418c96;
+}
+.nav-menu a:hover,
+.current-menu-item  a{
+	color: #f4710f;
+}
+.nav-menu li + li {
+	background: url("images/separator.png") left no-repeat;
+}
+.nav-menu ul.children,
+.nav-menu ul.sub-menu {
+	background: #8dd7de;
+}
+.post-bottom {
+	background: url("images/post-bg-bottom.png") bottom left no-repeat;
+}
+.post-middle {
+	background: url("images/post-bg-middle.png") left top repeat-y;
+}
+.post-top {
+	background: url("images/post-bg-top.png") top left no-repeat;
+}
+.reply a {
+	color: #718383;
+	text-shadow: 1px 1px #fff;
+}
+.reply-title {
+}
+.site-description {
+	color: #fff !important;
+	text-shadow: none;
+}
+.site-title-left {
+	background: url("images/header-left-part.png") right top repeat-x;
+}
+.site-title-middle {
+	background: url("images/header-middle-part.png") 0 0 repeat-x;
+}
+.site-title-right {
+	background: url("images/header-right-part.png") right top repeat-x;
+}
+.site-title,
+.site-title a {
+	color: #f9984d;
+	text-shadow: -1px -1px 0 white;
+}
+.sticky .post-top {
+	background: url("images/post-bg-top-sticky.png") left top no-repeat;
+}
+.sticky .post-title h2 a {
+	color: #22b5d3;
+}
+.single-post-title h2 {
+	color: #3d4b4e;
+}
+.post-title a,
+.page-title a {
+	color: #3d4b4e;
+	text-shadow: 1px 1px 0 #fff;
+}
+.page-content {
+	background: url("images/page-bg-middle.png") 0 0 repeat-y;
+}
+.page-bottom {
+	background: url("images/page-bg-bottom.png") 0 0 no-repeat;
+}
+.attachment .page-content {
+	background: url("images/page-bg-middle-long.png") 0 0 repeat-y;
+}
+.attachment .page-bottom {
+	background: url("images/page-bg-bottom-long.png") 0 0 no-repeat;
+}
+.reply-wrapper {
+	background: url("images/comment-bottom.png") top left no-repeat;
+}
+.sidebar-top {
+	background: url("images/sidebar-bg-top.png") left no-repeat;
+}
+.sidebar-middle {
+	background: url("images/sidebar-bg-middle.png") top left repeat-y;
+}
+.sidebar-bottom {
+	background: url("images/sidebar-bg-bottom.png") top left no-repeat;
+}
+ul.children .comment-wrapper {
+	background: #b4dcda;
+	border-top: 1px solid #fff;
+	border-left: 1px solid #fff;
+}
+.widget a {
+	color: #3d4b4e;
+}
+#wp-calendar caption {
+	color: #979c9c;
+	text-shadow: 1px 1px 0 #fff;
+}
+#wp-calendar td {
+	border: 1px solid #a7dbd8;
+	color: #3d4b4e;
+	text-shadow: 1px 1px 0 #fff;
+}
+#wp-calendar th {
+	border: 1px solid #a7dbd8;
+	color: #a1a6a6;
+	text-shadow: 1px 1px 0 #fff;
+}
